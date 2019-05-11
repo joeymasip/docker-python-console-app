@@ -1,6 +1,6 @@
 # Python Console App with Docker
 
-Python console app script dockerized
+Python console app script with requirements bundled in Docker.
 
 ### Prerequisites
 
